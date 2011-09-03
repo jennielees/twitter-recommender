@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<directededge version="0.1">
+<item id="k_companies"><tag>keyword</tag></item>
+<item id="k_also"><tag>keyword</tag></item>
+<item id="k_currofile.com"><tag>keyword</tag></item>
+<item id="k_match"><tag>keyword</tag></item>
+<item id="k_helping"><tag>keyword</tag></item>
+<item id="k_online"><tag>keyword</tag></item>
+<item id="k_contributor"><tag>keyword</tag></item>
+<item id="Currofile"><tag>person</tag><link>k_companies</link><link>k_also</link><link>k_currofile.com</link><link>k_helping</link><link>k_hiring</link><link>k_marina</link><link>k_style</link><link>k_match</link><link>k_professionals</link><link>k_online/mobile/digital</link><link>k_europe</link><link>k_techcrunch</link><link>k_contributor</link><link>k_non-profit</link></item>
+<item id="minddog"><tag>person</tag><link>k_also</link><link>k_helping</link></item>
+<item id="shaherose"><tag>person</tag><link>k_contributor</link><link>k_helping</link><link>k_match</link><link>k_also</link><link>k_companies</link><link>k_ceo/founder</link><link>k_consumer</link><link>k_day</link><link>k_enabling</link><link>k_always</link><link>k_weekend</link><link>k_passionista</link><link>k_women2</link><link>k_mobile</link><link>k_opinno</link></item>
+<item id="wtftobuy"><tag>person</tag></item>
+<item id="ppalavilli"><tag>person</tag><link>k_x.com</link><link>k_evangelist</link><link>k_match</link><link>k_companies</link></item>
+</directededge>
