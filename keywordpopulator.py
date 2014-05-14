@@ -123,7 +123,7 @@ class KeywordPopulator():
   #TWITTER_ACCOUNT = "youshouldtalk"
     TWITTER_ACCOUNT = "festbuzz"
   #TWITTER_PASSWORD = "startupweekend"
-    TWITTER_PASSWORD = "media6privy"
+    TWITTER_PASSWORD = "startupweekend"
 
 
     store = y_serial.Main('sqlite.sql')
